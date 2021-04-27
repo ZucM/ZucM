@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building up my programming fundamentals and improving my Problem Solving skills.
-- 🌱 I’m currently learning different Web Technologies.
-- 💬 Ask me about C++.
+- 🌱 I’m currently learning different Web Technologies Stack.
+- 🔭 Also I'm well-versed with Data Structures and Algorithms and always working on my Problem Solving skills.
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ikaransingh/) 
 
 
