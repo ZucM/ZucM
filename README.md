@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<p><br></p>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
